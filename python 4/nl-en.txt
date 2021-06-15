@@ -1,3 +1,5 @@
+kat=cat
 koe=cow
 schaap=sheep
 varken=pig
+schep=shovel
